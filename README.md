@@ -5,7 +5,7 @@ python task_tracker.py add "Buy groceries"
 # Output: Task added successfully (ID: 1)
 
 # Updating and deleting tasks
-python task_tracker.py update 1 "Buy groceries and cook dinner"
+python task_tracker.py update 1 "Buy groceries and cook dinner"  \n
 python task_tracker.py delete 1
 
 # Marking a task as in progress or done
